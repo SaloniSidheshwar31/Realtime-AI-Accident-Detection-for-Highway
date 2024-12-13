@@ -1,7 +1,7 @@
 # Automated Road Accident Detection and Emergency Response System
 
 ## Overview
-The **Automated Road Accident Detection and Emergency Response System** is a cutting-edge project designed to detect road accidents in real-time using YOLO (You Only Look Once) object detection and other advanced AI techniques. Upon detecting an accident, the system:
+The **Automated Road Accident Detection and Emergency Response System** is a novel project designed to detect road accidents in real-time using YOLO (You Only Look Once) object detection and other advanced AI techniques. Upon detecting an accident, the system:
 
 1. **Sends Emergency Alerts**: Utilizes the Twilio API to send notifications and make calls to nearby hospitals.
 2. **Integrates Current Location**: Includes the accident's geographical location to guide emergency responders accurately.
